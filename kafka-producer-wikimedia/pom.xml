@@ -8,7 +8,7 @@
           <artifactId>streamer</artifactId>
           <version>0.0.1-SNAPSHOT</version>
     </parent>
-
+    <packaging>jar</packaging>
     <groupId>com.streamer</groupId>
     <artifactId>kafka-producer-wikimedia</artifactId>
     <version>1.0-SNAPSHOT</version>

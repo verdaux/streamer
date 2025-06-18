@@ -16,6 +16,7 @@
 	<packaging>pom</packaging>
 	<modules>
 		<module>kafka-producer-wikimedia</module>
+		<module>kafka-consumer-database</module>
 	</modules>
 	<url/>
 	<licenses>
